@@ -26,7 +26,7 @@ Eyes snapped to the entrance, studying the new arrivals. “Oh, I know that guy,
 
 I silently noted that she hadn't been one of those who'd turned around to look. No, rather, her eyes had been studying me. I felt my teeth clenching harder around the inside of my cheek, my face remaining perfectly serene. I silently noted her as someone to watch.
 
-%%
+%%!
 EDIT INSTRUCTION
 At this point, Sophia should accept Monica’s suggestion and bow out of the game.
 

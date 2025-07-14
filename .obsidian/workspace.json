@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "The Bet/story/03_A Glance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03_A Glance"
             }
           }
         ]
@@ -208,13 +208,13 @@
       }
     ]
   },
-  "active": "5fb0e397767f3dbf",
+  "active": "bf9d7bf5fc3d2f84",
   "lastOpenFiles": [
-    "The Bet/story/X_Glance.md",
-    "README.md",
-    "The Bet/story/03_A Glance.md",
     "The Bet/story/01_Prologue.md",
     "The Bet/story/00_Setup.md",
+    "README.md",
+    "The Bet/story/X_Glance.md",
+    "The Bet/story/03_A Glance.md",
     "The Bet/story/12_First Move.md",
     "The Bet/characters/Sophia/Sophia.md",
     "The Bet/characters/Sophia/Heritage.md",
