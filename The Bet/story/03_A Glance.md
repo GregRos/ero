@@ -27,5 +27,11 @@ Eyes snapped to the entrance, studying the new arrivals. “Oh, I know that guy,
 I silently noted that she hadn't been one of those who'd turned around to look. No, rather, her eyes had been studying me. I felt my teeth clenching harder around the inside of my cheek, my face remaining perfectly serene. I silently noted her as someone to watch.
 
 %%
-# Lost Interaction
-The following is from an interaction between 
+EDIT INSTRUCTION
+At this point, Sophia should accept Monica’s suggestion and bow out of the game.
+
+Also, work in the following bit of lore:
+
+That Harvard bitch had enough dirt on half of her professors to get automatic A’s on everything she did. Still, it takes one to know one. I shook my head in amusement and left her to clean out the table.
+%%
+
