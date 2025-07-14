@@ -2,6 +2,7 @@ This repo contains story notes and chapters. It’s a monorepo of multiple stori
 
 Currently, we’re looking at The Bet.
 
+DONT WRITE ANYTHING UNLESS I EXPLICITLY TELL YOU.
 # Instructions
 Sections surrounded by %% are comments %% and not part of the text. I’ll use them to tell you things.
 
