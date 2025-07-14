@@ -1,0 +1,3 @@
+Ah, Cambridge, Massachusetts. Home to Harvard, MIT, Lesley University, and half a dozen other universities. Although many professed their diversity and inclusivity, in truth they were the playgrounds for the youth of the financial elite. The median Cambridge undergraduate had a 5-figure household income and a substantial percentage had a personal net worth of over a million.
+
+There were some - surprisingly few - who were good enough to get a scholarship to one of these exclusive establishments. Those latter stuck out like sore thumbs. There were those outliers who thrived, but most found themselves in an unfamiliar world.
